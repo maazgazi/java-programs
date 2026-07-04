@@ -3,6 +3,9 @@
 class Avdhoot
 {
 
+
+    // this program is based on basic logic of java
+
     public static void main(String[] args) {
         
         int x=10;
